@@ -14,4 +14,4 @@ r6s - R6S UI Recreation.
 
 # Credits
 
-VRF for Valve Resource Viewer.
+xPaw for Valve Resource Viewer.
