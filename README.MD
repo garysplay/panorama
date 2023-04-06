@@ -11,3 +11,7 @@ to use it compile it in Half-Life Alyx tools.
 master - Retail CS2 with unlocked buttons.
 
 r6s - R6S UI Recreation.
+
+# Credits
+
+VRF for Valve Resource Viewer.
